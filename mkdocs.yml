@@ -20,7 +20,9 @@ theme:
       accent: deep orange
 
 nav:
-  - Skill构建流程操作指南: index.md
+  - 首页: index.md
+  - Skill构建流程操作指南: skill-construction-guide.md
+  - Skill评估框架及评分细则: skill-eval-rubric.md
 
 markdown_extensions:
   - admonition
